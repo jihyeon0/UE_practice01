@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue_projects\\practice01\\intermediate\\build\\win64\\unrealeditor\\inc\\practice01\\uht\\myactor.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue_projects\\practice01\\intermediate\\build\\win64\\x64\\practice01editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\ue_projects\\practice01\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\practice01\\definitions.practice01.h",
+            "d:\\ue_projects\\practice01\\source\\practice01\\myactor.h",
+            "d:\\ue_projects\\practice01\\intermediate\\build\\win64\\unrealeditor\\inc\\practice01\\uht\\myactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

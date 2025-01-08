@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-practice01-0038.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE_Projects\practice01\Intermediate\Build\Win64\x64\practice01Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\UE_Projects\practice01\Intermediate\Build\Win64\x64\UnrealEditor\Development\practice01\practice01.init.gen.cpp.obj"
+"D:\UE_Projects\practice01\Intermediate\Build\Win64\x64\UnrealEditor\Development\practice01\MyActor.gen.cpp.obj"
+"D:\UE_Projects\practice01\Intermediate\Build\Win64\x64\UnrealEditor\Development\practice01\practice01.cpp.obj"
+"D:\UE_Projects\practice01\Intermediate\Build\Win64\x64\UnrealEditor\Development\practice01\MyActor.cpp.obj"
+"D:\UE_Projects\practice01\Intermediate\Build\Win64\x64\UnrealEditor\Development\practice01\Default.rc2.res"
+/OUT:"D:\UE_Projects\practice01\Intermediate\Build\Win64\x64\UnrealEditor\Development\practice01\UnrealEditor-practice01-0038.lib"
